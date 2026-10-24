@@ -1,13 +1,13 @@
 ### Michal Glonek
 
-Web developer z Bratislavy. Robím weby, e-shopy a aplikácie na zákazku: od WooCommerce e-shopov cez vlastné pluginy až po samostatné aplikácie v Nette a Laraveli. Najviac ma baví prepájať systémy cez API a automatizovať veci, ktoré sa inak robia ručne.
+Web developer based in Bratislava, Slovakia. I build websites, e-shops and custom applications for clients — from WooCommerce stores and custom plugins to standalone apps in Nette and Laravel. What I enjoy most is connecting systems through APIs and automating work that would otherwise be done by hand.
 
-**Na čom stavím:** PHP · Laravel · Nette · WordPress / WooCommerce · PrestaShop · MySQL / MariaDB · REST API · JavaScript · Tailwind · Docker · Playwright
+**Stack:** PHP · Laravel · Nette · WordPress / WooCommerce · PrestaShop · MySQL / MariaDB · REST APIs · JavaScript · Tailwind · Docker · Playwright
 
-**Ukážkový projekt**
+**Featured project**
 
-- [ai-feed-enricher](https://github.com/glonco90/ai-feed-enricher): z feedu dodávateľa urobí cez Claude API hotové produkty pre e-shop, výstup kontroluje validátor aj proti halucináciám a schválené produkty odošle do WooCommerce.
+- [ai-feed-enricher](https://github.com/glonco90/ai-feed-enricher) — turns raw supplier feeds into ready-to-publish e-shop products using the Claude API, validates the output (including a hallucination check) and pushes approved products to WooCommerce.
 
-Pracovné projekty sú vo firemnom GitLabe a nie sú verejné.
+Most of my client work lives in a private company GitLab.
 
-Študujem Informačné a komunikačné technológie na FEI STU · michalglonek225@gmail.com
+Studying Information and Communication Technologies at FEI STU · michalglonek225@gmail.com
